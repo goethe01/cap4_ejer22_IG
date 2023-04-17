@@ -201,6 +201,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         txtNombre.setText(String.valueOf(""));
         txtSalario.setText(String.valueOf(""));
         txtHorasTrabajadas.setText(String.valueOf(""));
+        txtSalida.setText(String.valueOf(""));
         
         
     }//GEN-LAST:event_btnBorrarActionPerformed
